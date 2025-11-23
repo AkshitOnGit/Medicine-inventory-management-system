@@ -38,7 +38,7 @@ MEDICINE INVENTORY MANAGEMENT SYSTEM/
 
 ---
 
-## 🛠 Requiremen
+## 🛠 Requirement
 
 You only need:
 
