@@ -56,19 +56,23 @@ This project was developed to demonstrate:
 
 1. Install Python
 
-Download Python 3.x from the official website or verify installation using "python --version" in the terminal.
+Download Python 3.x from the official website or verify installation using:
+python --version
 
 2. Install Required Library
 
-Install the tabulate library using "pip install tabulate" in the terminal.
+Install the tabulate library using:
+pip install tabulate
 
 3. Download or Create Project File
 
-Make a file named "inventory.py" paste the complete prject code into it.
+Make a file named:
+inventory.py
 
 4. Run the program
 
-Navigate to the folder in termianl and run "python inventory,py",the menu will appear,and you can start using the system.
+Navigate to the folder in termianl and run:
+python inventory.py
 
 # Instructions for Testing the Project
 
@@ -96,3 +100,15 @@ Check if it appears in the low stock list.
 4. Test Expiry Feature
 
 Add one past-date medicine, for example 01/01/2023,ensure it appears in the expired medicines list.
+
+5. Test Remove Function
+
+Try removing:
+	•	Existing medicine
+	•	Non-existing medicine
+
+Check error handling.
+
+6. Check Program Flow
+
+Navigate through the menu and ensure it loops correctly until exit.
